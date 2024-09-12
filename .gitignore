@@ -1,4 +1,7 @@
 .vscode
 .venv
 __pycache__
+
+# datasets
 data/*.wav
+data/mozilla
