@@ -1,4 +1,5 @@
 librosa
+audioread
 soundfile
 numpy
 scipy
