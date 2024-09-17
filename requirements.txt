@@ -1,5 +1,13 @@
-librosa
+audiolm_pytorch
 audioread
-soundfile
+encodec
+fairseq
+funcy
+librosa
 numpy
+pandas
 scipy
+soundfile
+torch
+tqdm
+transformers

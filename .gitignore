@@ -5,3 +5,7 @@ __pycache__
 # datasets
 data/*.wav
 data/mozilla
+
+# repo
+Retrieval-based-Voice-Conversion-WebUI/
+bark-with-voice-clone/
