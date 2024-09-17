@@ -1,4 +1,6 @@
-# SUPER VOICE CLONER lol
+# SUPER VOICE CLONER
+
+A simple comparison of different TTS libraries.
 
 
 <p align="center">
@@ -14,16 +16,19 @@
 - [💻 Usage](#usage)
 - [👥 Authors](#authors)
 
+
 ## 🚀 Subject <a name="subject"></a>
-    voice cloning
+    Voice cloning using different libraries and making a
+    comparison with different audio files.
+
 
 ## 🛠 Dependencies <a name="dependencies"></a>
-    probably python and some libraries
-
+    pip install -r requirements
 
     
 ## 💻 Usage <a name="usage"></a>
-    don't know yet
+    Run the jupyter notebooks individually
+
 
 ## 👥 Authors <a name="authors"></a>
 - Dorian Penso
